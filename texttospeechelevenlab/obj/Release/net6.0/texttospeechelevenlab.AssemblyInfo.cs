@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("texttospeechelevenlab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4fdf2b355fb1323a37a3d4d558aaadba68057d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed27509224a3705509a713fd70a5c72725735c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("texttospeechelevenlab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("texttospeechelevenlab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
